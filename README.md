@@ -19,13 +19,13 @@ Several game engines are popular here:
 
 **Game features:** 
 There is one of 0.txt, 00.txt, nscript.dat and nscript.___ in the root directory of the folder.In general, it also contains nsa media files
-![-w761](media/16116679183711/16116685982219.jpg)
+![-w761](https://img-blog.csdnimg.cn/20210126221355163.png)
 
 
 -------
 ## About Ren'py
 
-**Required APP:** [ONSPlayer](https://apps.apple.com/cn/app/renpyviewer/id1547796767)
+**Required APP:** [Renpyviewer](https://apps.apple.com/cn/app/renpyviewer/id1547796767)
 ![](https://img-blog.csdnimg.cn/img_convert/0dba9cbe33ecf9b281d71c2b3ed37731.png)
 
 **Related games：**
