@@ -28,10 +28,12 @@ There is one of 0.txt, 00.txt, nscript.dat and nscript.___ in the root directory
 ## About Ren'py
 
 **Required APP:** [Renpyviewer](https://apps.apple.com/cn/app/renpyviewer/id1547796767)
-![](https://img-blog.csdnimg.cn/img_convert/0dba9cbe33ecf9b281d71c2b3ed37731.png)
+
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze4uv6doxj31hc0u0gnu.jpg)
 
 **Related games：**
-![](https://img-blog.csdnimg.cn/20210126134803144.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2s4NjI5NjI5,size_16,color_FFFFFF,t_70)
+
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze4uhsgk0j315x0u07a2.jpg)
 
 **Game features:** 
 There are game and Renpy folders in the game root directory
@@ -44,7 +46,7 @@ There are game and Renpy folders in the game root directory
 ![](https://img-blog.csdnimg.cn/20210126214614509.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2s4NjI5NjI5,size_16,color_FFFFFF,t_70)
 
 **Related games：**
-![](https://img-blog.csdnimg.cn/img_convert/e133adf0eed78e64aa8c1c3404650ca5.png)
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze4tvknjtj314q0u0qao.jpg)
 
 **Game features:** 
 There are data.xp3 file in the game root directory
