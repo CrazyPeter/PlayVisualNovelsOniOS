@@ -21,9 +21,7 @@ Several game engines are popular here:
 **Game features:** 
 There is one of 0.txt, 00.txt, nscript.dat and nscript.___ in the root directory of the folder.In general, it also contains nsa media files
 
-![-w761](https://img-blog.csdnimg.cn/20210126221355163.png)
-
-
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze7aj1up6j316a0cugmr.jpg)
 -------
 ## About Ren'py
 
@@ -67,8 +65,7 @@ There are data.xp3 file in the game root directory
 
 There are node.dll and www folders in the game folder
 
-![](https://img-blog.csdnimg.cn/20210126215252730.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2s4NjI5NjI5,size_16,color_FFFFFF,t_70)
-
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze7pvqocxj316s0komz1.jpg)
 -----
 
 ## How to use these apps
@@ -77,9 +74,9 @@ The usage of the above APPs are similar, the following is an example of Renpyvie
 1. First, you have to prepare the game on the PC separately, and find its production engine according to the above game features
 2. Download iTunes on the PC, prepare your iOS device, and connect the iOS device via USB
 3. Find your APP in the apps column, and drag the game folder to the position shown
-![](https://img-blog.csdnimg.cn/img_convert/4dc43794f987ef22b82520d0a1e2fa18.png)
-1. After the transfer is complete, open the APP on your iOS device to see the game, click to start playing
-![](https://img-blog.csdnimg.cn/img_convert/38a08989730152faccb3d023c8470154.png)
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze7n2n0zbj30dw07t0sz.jpg)
+4. After the transfer is complete, open the APP on your iOS device to see the game, click to start playing
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze7m1vwmsj31eu0satay.jpg)
 
 
 
