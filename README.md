@@ -13,10 +13,10 @@ Several game engines are popular here:
 
 **Required APP:** [ONSPlayer](https://apps.apple.com/cn/app/id1388250129)
 
-![](https://img-blog.csdnimg.cn/img_convert/7c9b707306bf7009d12d68ab9ee4b720.png)
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze7xgiov5j30hk0bk74p.jpg)
 
 **Related games：**
-![](https://img-blog.csdnimg.cn/img_convert/89669f7a1db513281b0ba94e3201f944.png)
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze7x0o1i3j30ya0u0q9e.jpg)
 
 **Game features:** 
 There is one of 0.txt, 00.txt, nscript.dat and nscript.___ in the root directory of the folder.In general, it also contains nsa media files
@@ -35,31 +35,32 @@ There is one of 0.txt, 00.txt, nscript.dat and nscript.___ in the root directory
 
 **Game features:** 
 There are game and Renpy folders in the game root directory
-![](https://img-blog.csdnimg.cn/2021012621414888.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2s4NjI5NjI5,size_16,color_FFFFFF,t_70)
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze7xvddyvj31bs0fo75r.jpg)
 
 ------
 
 ## About krkr
 **Required APP:** xp3player
-![](https://img-blog.csdnimg.cn/20210126214614509.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2s4NjI5NjI5,size_16,color_FFFFFF,t_70)
+
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze7yer6djj30xy0je75m.jpg)
 
 **Related games：**
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gze4tvknjtj314q0u0qao.jpg)
 
 **Game features:** 
 There are data.xp3 file in the game root directory
-![](https://img-blog.csdnimg.cn/20210126214839871.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2s4NjI5NjI5,size_16,color_FFFFFF,t_70)
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze7z2x5owj30vi0begm4.jpg)
 
 -----
 
 ## About RPG MV
 **Required APP:** All kinds of support to run local server are available, use ONSPlayer as an example.
 
-![](https://img-blog.csdnimg.cn/img_convert/7c9b707306bf7009d12d68ab9ee4b720.png)
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze7zl6bttj30hk0bk74p.jpg)
 
 **Related games：**
 
-![](https://img-blog.csdnimg.cn/20210126134945246.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2s4NjI5NjI5,size_16,color_FFFFFF,t_70)
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze8057bpbj31kt0u0wog.jpg)
 
 **Game features:** 
 
