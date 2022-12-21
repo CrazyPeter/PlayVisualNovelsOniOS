@@ -1,8 +1,8 @@
-# How to play galgames on iOS
+# How to play Visualnovels on iOS
 
-How to play galgames on ios
+How to play Visualnovels on ios
 
-In fact, most galgame games can run under iOS, but you have to confirm which game engine you want to play galgame with. Because the game engine is different, the method used is different.
+In fact, most Visualnovels games can run under iOS, but you have to confirm which game engine you want to play Visualnovels with. Because the game engine is different, the method used is different.
 
 Several game engines are popular here: 
 **ONScripter, Renpy, Krkr, RPG MV**.
