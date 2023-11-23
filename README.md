@@ -2,6 +2,8 @@
 
 How to play Visualnovels on ios
 
+keywords: iOS , Visual Novels , Visualnovels , Visual Novel , Visualnovel.
+
 In fact, most Visualnovels games can run under iOS, but you have to confirm which game engine you want to play Visualnovels with. Because the game engine is different, the method used is different.
 
 Several game engines are popular here: 
