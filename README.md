@@ -11,35 +11,20 @@ Several game engines are popular here:
 
 -------
 
-## About ONScripter
-
-**Required APP:** [ONSPlayer](https://apps.apple.com/cn/app/id1388250129)
-
-![](https://tva1.sinaimg.cn/large/008i3skNly1gze7xgiov5j30hk0bk74p.jpg)
-
-**Related games：**
-![](https://tva1.sinaimg.cn/large/008i3skNly1gze7x0o1i3j30ya0u0q9e.jpg)
-
-**Game features:** 
-There is one of 0.txt, 00.txt, nscript.dat and nscript.___ in the root directory of the folder.In general, it also contains nsa media files
-
-![](https://tva1.sinaimg.cn/large/008i3skNly1gze7aj1up6j316a0cugmr.jpg)
--------
-## About Ren'py
-
-**Required APP:** [Renpyviewer](https://apps.apple.com/cn/app/renpyviewer/id1547796767)
-
-![](https://tva1.sinaimg.cn/large/008i3skNly1gze4uv6doxj31hc0u0gnu.jpg)
+## About RPG MV
+**Required APP:** RPGViewer.
 
 **Related games：**
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gze4uhsgk0j315x0u07a2.jpg)
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze8057bpbj31kt0u0wog.jpg)
 
 **Game features:** 
-There are game and Renpy folders in the game root directory
-![](https://tva1.sinaimg.cn/large/008i3skNly1gze7xvddyvj31bs0fo75r.jpg)
 
-------
+There are node.dll and www folders in the game folder
+
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze7pvqocxj316s0komz1.jpg)
+-----
+
 
 ## About krkr
 **Required APP:** xp3player
@@ -55,24 +40,8 @@ There are data.xp3 file in the game root directory
 
 -----
 
-## About RPG MV
-**Required APP:** All kinds of support to run local server are available, use ONSPlayer as an example.
-
-![](https://tva1.sinaimg.cn/large/008i3skNly1gze7zl6bttj30hk0bk74p.jpg)
-
-**Related games：**
-
-![](https://tva1.sinaimg.cn/large/008i3skNly1gze8057bpbj31kt0u0wog.jpg)
-
-**Game features:** 
-
-There are node.dll and www folders in the game folder
-
-![](https://tva1.sinaimg.cn/large/008i3skNly1gze7pvqocxj316s0komz1.jpg)
------
-
 ## How to use these apps
-The usage of the above APPs are similar, the following is an example of Renpyviewer
+The usage of the above APPs are similar, the following is an example of RPGViewer
 
 1. First, you have to prepare the game on the PC separately, and find its production engine according to the above game features
 2. Download iTunes on the PC, prepare your iOS device, and connect the iOS device via USB
@@ -80,6 +49,41 @@ The usage of the above APPs are similar, the following is an example of Renpyvie
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gze7n2n0zbj30dw07t0sz.jpg)
 4. After the transfer is complete, open the APP on your iOS device to see the game, click to start playing
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gze7m1vwmsj31eu0satay.jpg)
+
+
+
+
+## About ONScripter （Deleted by Apple Store）
+
+**Required APP:** [ONSPlayer](https://apps.apple.com/cn/app/id1388250129)
+
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze7xgiov5j30hk0bk74p.jpg)
+
+**Related games：**
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze7x0o1i3j30ya0u0q9e.jpg)
+
+**Game features:** 
+There is one of 0.txt, 00.txt, nscript.dat and nscript.___ in the root directory of the folder.In general, it also contains nsa media files
+
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze7aj1up6j316a0cugmr.jpg)
+-------
+## About Ren'py （Deleted by Apple Store）
+
+**Required APP:** [Renpyviewer](https://apps.apple.com/cn/app/renpyviewer/id1547796767)
+
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze4uv6doxj31hc0u0gnu.jpg)
+
+**Related games：**
+
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze4uhsgk0j315x0u07a2.jpg)
+
+**Game features:** 
+There are game and Renpy folders in the game root directory
+![](https://tva1.sinaimg.cn/large/008i3skNly1gze7xvddyvj31bs0fo75r.jpg)
+
+------
+
+
 
 
 
