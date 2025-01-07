@@ -65,9 +65,12 @@ The usage of the above APPs are similar, the following is an example of RPGViewe
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gze7m1vwmsj31eu0satay.jpg)
 
 
-## About ONScripter （Deleted by Apple Store）
 
-**Required APP:** [ONSPlayer](https://apps.apple.com/cn/app/id1388250129)
+## About ONScripter
+
+Yes,RenpyReader could run ONScripter game!
+
+**Required APP:** [RenpyReader](https://apps.apple.com/cn/app/renpyreader/id6479896772)
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gze7xgiov5j30hk0bk74p.jpg)
 
@@ -78,6 +81,7 @@ The usage of the above APPs are similar, the following is an example of RPGViewe
 There is one of 0.txt, 00.txt, nscript.dat and nscript.___ in the root directory of the folder.In general, it also contains nsa media files
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gze7aj1up6j316a0cugmr.jpg)
+
 
 -------
 
